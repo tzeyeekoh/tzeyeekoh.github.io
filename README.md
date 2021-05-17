@@ -1,3 +1,3 @@
-# My Profile Page: tzeyeekoh.github.io
-http://tzeyeekoh.github.io/
+# My Profile Page:
+http://tzeyeekoh.github.io/ 
 https://www.linkedin.com/in/tzeyeekoh/
